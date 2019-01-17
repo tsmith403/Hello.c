@@ -1,6 +1,6 @@
 /**
- * Author: Trevor Smith
- * Date: 2019/1/15
+ * Author: Trevor Smith Andrew Fujan
+ * Date: 2019/1/17
  *
  * A simple hello world program in C
  *
@@ -11,7 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Trevor Smith Andrew Fujan\n");
-  printf("Anthropology Finance\n");
+  printf("Anthropology Finance \n");
 
   return 0;
 }
