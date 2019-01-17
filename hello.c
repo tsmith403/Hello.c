@@ -10,8 +10,10 @@
 
 int main(int argc, char **argv) {
 
-  printf("Trevor Smith Andrew Fujan\n");
-  printf("Anthropology Finance\n");
-
+  printf("Trevor Smith\n");
+  printf("Anthropology\n");
+  printf("Andrew Fujan\n");
+  printf("Finance\n");
+	
   return 0;
 }
