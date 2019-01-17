@@ -11,7 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Trevor Smith Andrew Fujan\n");
-  printf("Anthropology Finance\n");
+  printf("Anthropology Finance \n");
 
   return 0;
 }
